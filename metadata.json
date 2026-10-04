@@ -1,0 +1,6 @@
+{
+  "name": "IMSEC Attendance",
+  "description": "Humanized smart biometric and live GPS-verified attendance app for Somya Sharma at IMS Engineering College",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
